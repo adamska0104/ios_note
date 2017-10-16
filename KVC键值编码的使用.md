@@ -8,6 +8,13 @@
 
 `*/`
 
+
+
+
+
+
+
+
 `void test6() {`
 
 `XMGPerson *person = [[XMGPerson alloc] init];`
