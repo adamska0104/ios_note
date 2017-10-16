@@ -2,8 +2,7 @@
 
 ##1.模型转字典
 
-
-```
+```objc
 void test6() {
     XMGPerson *person = [[XMGPerson alloc] init];
     person.name = @"lurry";
@@ -13,5 +12,8 @@ void test6() {
     NSLog(@"%@", dict);
 }
 ```
+
+
+
 
 
