@@ -30,7 +30,7 @@ $ gitbook init
 **README.md** 是对书籍的简单介绍
 **SUMMARY.md** 是书籍的目录结构
 如：
-![image](/Users/mc/Downloads/1.png)
+![image](./1.png)
 
 ![image](http://gtms01.alicdn.com/tps/i1/TB1OwZ8JXXXXXbDXVXX_0dR.XXX-876-1228.png)
 
